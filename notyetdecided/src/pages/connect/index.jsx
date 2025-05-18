@@ -2,7 +2,11 @@ import React from 'react'
 
 const index = () => {
   return (
-    <div>index</div>
+    <section id="connect" className="...">
+<div>
+  connect
+</div>
+  </section>
   )
 }
 
